@@ -37,8 +37,22 @@ https://github.com/user-attachments/assets/47b1c4d4-7a00-4387-9e05-cd3aa4541bec
 
 ![Untitled](https://github.com/user-attachments/assets/2358f02c-9880-4586-9c69-c321d7b4577b)
 
+<a name="work"></a>
+## 4. How it works 🔩
 
+- We can fill in the form with data such as (Number of balls, Distance, Ball radius) and click the ‘Start’ button or leave the default data and click the ‘Start’ button.
 
+https://github.com/user-attachments/assets/041351a5-31ee-43ca-9d52-df898b4c4a35
+
+- If you want to finish, click on the reset button
+
+https://github.com/user-attachments/assets/9c990fde-44ce-4611-aef7-b0bb76e3b380
+
+<a name="code"></a>
+## 5. Working moment about the code ☕️
+
+I used it in my project:
+- Canvas
 
 
 
